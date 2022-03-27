@@ -6,9 +6,9 @@
 
 - 🎓 &nbsp; <strong>Engenheiro de Produção</strong> com foco em Gestão de Projetos.
 
-- 💼 &nbsp; Atuo na área de <strong>Suporte TI</strong> e na <strong>Criação de ChatBot</strong>.
+- 💼 &nbsp; Trabalho na área de <strong>Suporte TI</strong> e na <strong>Criação de ChatBot</strong>.
 
-- 📚 &nbsp; Estudo Desenvolvimento de <strong>Soluções Web</strong> com <strong>ReactJS.</strong>
+- 📚 &nbsp; Estudo <strong>Desenvolvimento Web</strong> com <strong>Stack Javascript.</strong>
 
 <br/>
 
