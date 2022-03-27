@@ -5,7 +5,9 @@
 <br/>
 
 - 🎓 &nbsp; Formado em <strong>Engenharia de Produção</strong> com foco em Gestão de Projetos.
+
 - 💼 &nbsp; Atuo na área de <strong>Suporte TI</strong> e no <strong>Desenvolvimento de ChatBots</strong>.
+
 - 📚 &nbsp; Estudo Desenvolvimento de <strong>Soluções Web</strong> com Stack Javascript.
 
 <br/>
