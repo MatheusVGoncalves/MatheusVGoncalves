@@ -4,11 +4,11 @@
 
 <br/>
 
-- 🎓 &nbsp; <strong>Engenheiro de Produção</strong> com foco em Gestão de Projetos.
+- 🎓 &nbsp; Formado em <strong>Engenharia de Produção.</strong>
 
-- 💼 &nbsp; Trabalho na área de <strong>Suporte TI</strong> e na <strong>Criação de ChatBot</strong>.
+- 💼 &nbsp; Trabalho como <strong>Desenvolvedor Fullstack Jr.</strong>
 
-- 📚 &nbsp; Estudo <strong>Desenvolvimento Web</strong> com <strong>Stack Javascript.</strong>
+- 📚 &nbsp; Meus estudos e projetos são voltados para  <strong>Node</strong>, <strong>React</strong> e <strong>React Native.</strong> 
 
 <br/>
 
@@ -26,6 +26,8 @@
   ![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=Node.js)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 
 
 **Ferramentas de Desenvolvimento**
@@ -40,8 +42,6 @@
   
  **Interesse em Aprender**
  
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-333333?style=flat&logo=amazon-aws)
 
