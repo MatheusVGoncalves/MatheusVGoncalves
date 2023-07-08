@@ -6,7 +6,7 @@
 
 - 🎓 &nbsp; Formado em <strong>Engenharia de Produção.</strong>
 
-- 💼 &nbsp; Trabalho como <strong>Desenvolvedor Fullstack Jr.</strong>
+- 💼 &nbsp; Trabalho como <strong>Desenvolvedor</strong>
 
 - 📚 &nbsp; Meus estudos e projetos são voltados para  <strong>Node</strong>, <strong>React</strong> e <strong>React Native.</strong> 
 
