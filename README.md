@@ -1,53 +1,42 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## 🚀 Olá, meu nome é <strong>Matheus!</strong>
+## Welcome! 👋🏻 
 
 <br/>
 
-- 🎓 &nbsp; Formado em <strong>Engenharia de Produção.</strong>
+I'm a Software Engineer with experience in Fintechs, Credit Products and Customer Support. 
 
-- 💼 &nbsp; Trabalho como <strong>Desenvolvedor</strong>
+Throughout my career, I’ve collaborated effectively with Engineers, Product Owners, QA and UX/UI Designers on cross-functional teams, developing robust frontends, backends, and chatbots.
 
-- 📚 &nbsp; Meus estudos e projetos são voltados para  <strong>Node</strong>, <strong>React</strong> e <strong>React Native.</strong> 
+As a professional, I value clear communication, strong presentation skills, product vision, and knowledge management, which have been crucial to my professional growth.
+
+💻 My technical experience:
+
+Front-end Engineer:
+- React.js, Next.js, TypeScript: Developed dynamic, responsive web applications.
+- Context API, Redux Saga, Zustand: Efficient state and side effect management.
+- React Query, SWR: Optimized data fetching and caching.
+- Styled Components, Material UI, Tailwind: Created consistent, themable UI components.
+- Jest, React Testing Library, Cypress: Ensured robust front-end code with unit, integration, and E2E tests.
+- REST API, WebSocket, SOAP: Integrated and consumed services.
+- Lifecycle Management: Mastered component lifecycle methods for optimal performance.
+
+Back-end Engineer:
+- Node.js, TypeScript, Nest.js: Built scalable server-side applications.
+- Express, Fastify: Developed high-performance APIs.
+- Prisma, TypeORM: Managed data persistence and migrations.
+- MySQL, PostgreSQL: Designed and optimized relational databases.
+- Unit Testing, E2E Testing: Ensured code quality with automated tests.
+- Keycloak: Implemented secure authentication and authorization.
+- Docker: Containerized applications for consistent deployment.
+- RabbitMQ, Apache Kafka: Handled asynchronous communication and message brokering.
+- AWS, GCP: Deployed and managed applications in cloud environments.
+
+I like to talk about experiences related to Frontend Development, Technical Leadership, Software Architecture, Micro Frontends (MFE), Design Systems, Cloud Computing (AWS and GCP), Artificial Intelligence, LLM, React.js, Node.js, and Python.
 
 <br/>
 
-## 💻 Minhas Habilidades
-
-**Tecnologias Utilizadas**
-
-
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=Node.js)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-
-
-**Ferramentas de Desenvolvimento**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
-  
- **Interesse em Aprender**
- 
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
-  ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-333333?style=flat&logo=amazon-aws)
-
-<br/> 
-
-## 📱 Onde me encontrar
+## 📱 Contacts
 
 
 [![Linkedin: Matheus Gonçalves](https://img.shields.io/badge/-Matheus%20Gonçalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusvgoncalves/)](https://www.linkedin.com/in/matheusvgoncalves/)
@@ -56,9 +45,8 @@
 
 <br/>
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ GitHub Info
 
 <div  display:"flex" align-items:center">
   <img height="100%" width="375em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVGoncalves&layout=compact&langs_count=7&theme=dracula"/>
-  <img heigth="100%" width="375em" src="https://github-readme-stats.vercel.app/api?username=MatheusVGoncalves&layout=compact&langs_count=7&theme=dracula" />
 <div/>
